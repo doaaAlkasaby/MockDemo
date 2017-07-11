@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MockDemo</string>
+    <string name="dollar_sign">$</string>
+    <string name="Price">Price :</string>
+    <string name="description">Description :</string>
+    <string name="details">Details</string>
+    <string name="products">Products</string>
+    <string name="no_products_found">No products found</string>
+</resources>
